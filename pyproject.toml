@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "gpx-openmap"
 dynamic = ["version"]
-description = "Use WSPR data to analyze your antenna's performance"
+description = "Analyse and display your gps tracks on a map."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }
@@ -14,10 +14,11 @@ authors = [
 ]
 keywords = ["ham radio", "wspr", "antenna"]
 classifiers = [
-    "Development Status :: 3 - Alpha",
     "Intended Audience :: End Users/Desktop",
-    "Intended Audience :: Telecommunications Industry",
     "License :: OSI Approved :: BSD License",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
