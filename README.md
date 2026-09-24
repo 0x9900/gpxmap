@@ -1,5 +1,5 @@
 
-# GPX Map
+# GPX to OpenMap
 
 **GPX Map** is a Python command-line tool that turns a GPX track into an interactive HTML map with statistics and graphs.
 
