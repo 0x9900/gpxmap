@@ -9,13 +9,13 @@ It can also generate a KML file for use with applications such as Google Earth.
 
 ## Features
 
-    * Interactive map of the GPX track
-    * Track statistics and graphs
-    * Waypoints and markers
-    * Trim unwanted points from a track
-    * Support for trek, sailing and flying tracks
-    * Optional KML export
-    * Generated HTML can be opened directly in a browser
+* Interactive map of the GPX track
+* Track statistics and graphs
+* Waypoints and markers
+* Trim unwanted points from a track
+* Support for trek, sailing and flying tracks
+* Optional KML export
+* Generated HTML can be opened directly in a browser
 
 ## Installation
 
