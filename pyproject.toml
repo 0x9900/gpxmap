@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "gpxmap"
+name = "gpx-openmap"
 dynamic = ["version"]
 description = "Use WSPR data to analyze your antenna's performance"
 readme = "README.md"

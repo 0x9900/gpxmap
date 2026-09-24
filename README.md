@@ -11,7 +11,7 @@ It can also generate a KML file for use with applications such as Google Earth.
 
 * Interactive map of the GPX track
 * Track statistics and graphs
-* Waypoints and markers
+* WayPoints and markers
 * Trim unwanted points from a track
 * Support for trek, sailing and flying tracks
 * Optional KML export
@@ -20,7 +20,7 @@ It can also generate a KML file for use with applications such as Google Earth.
 ## Installation
 
 ```bash
-pip install gpxmap
+pip install gpx-openmap
 ```
 
 Or install the latest development version:
