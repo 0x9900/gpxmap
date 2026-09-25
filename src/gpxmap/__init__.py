@@ -1,3 +1,8 @@
+#
+# Copyright © 2024-2026 fred <github-fred@hidzz.com>
+#
+# Distributed under terms of the BSD 3-Clause license.
+
 
 
 from .gpxmap import (DataError, MapPoints, draw_bearings, draw_points,
